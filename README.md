@@ -1,17 +1,12 @@
-﻿feixinapi
+﻿PrintScreen Java开发的截图工具
 =========
 
-非官方飞信API发送短信接口
 
+支持接入其它项目
+支持拖动选区
+支持放大镜
+支持bmp、png、jpg、gif格式图片保存
 
-此源码依赖以下Jar包：
-commons-codec
-commons-httpclient
-commons-logging 
-
-
-此源码参考了博客
-http://blog.quanhz.com/
 
 
 腾讯微博：@wuweiit
