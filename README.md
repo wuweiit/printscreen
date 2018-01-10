@@ -9,4 +9,11 @@
 
 
 
-腾讯微博：@wuweiit
+PrintScreen v1.0也秉承我一贯作风，源代码分享！你可以下载源码做任何事情，只要不违法！ 还有此工具截图默认格式是PNG 附加Linux版本 【升级版本: PrintScreenv2.0】 
+
+
+
+
+
+![https://static.oschina.net/uploads/code/201202/29171649_Lp70.png](https://static.oschina.net/uploads/code/201202/29171649_Lp70.png)
+ 
